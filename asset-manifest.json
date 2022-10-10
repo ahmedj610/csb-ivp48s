@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ahmedj610.github.io/csb-ivp48s/static/css/main.1822a3c1.chunk.css",
+    "main.js": "https://ahmedj610.github.io/csb-ivp48s/static/js/main.e13ae05a.chunk.js",
+    "main.js.map": "https://ahmedj610.github.io/csb-ivp48s/static/js/main.e13ae05a.chunk.js.map",
+    "runtime-main.js": "https://ahmedj610.github.io/csb-ivp48s/static/js/runtime-main.95a025aa.js",
+    "runtime-main.js.map": "https://ahmedj610.github.io/csb-ivp48s/static/js/runtime-main.95a025aa.js.map",
+    "static/js/2.f1f9e6e0.chunk.js": "https://ahmedj610.github.io/csb-ivp48s/static/js/2.f1f9e6e0.chunk.js",
+    "static/js/2.f1f9e6e0.chunk.js.map": "https://ahmedj610.github.io/csb-ivp48s/static/js/2.f1f9e6e0.chunk.js.map",
+    "index.html": "https://ahmedj610.github.io/csb-ivp48s/index.html",
+    "static/css/main.1822a3c1.chunk.css.map": "https://ahmedj610.github.io/csb-ivp48s/static/css/main.1822a3c1.chunk.css.map",
+    "static/js/2.f1f9e6e0.chunk.js.LICENSE.txt": "https://ahmedj610.github.io/csb-ivp48s/static/js/2.f1f9e6e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95a025aa.js",
+    "static/js/2.f1f9e6e0.chunk.js",
+    "static/css/main.1822a3c1.chunk.css",
+    "static/js/main.e13ae05a.chunk.js"
+  ]
+}
